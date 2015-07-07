@@ -1,0 +1,22 @@
+{
+  "name": "lumine-layer-typeform",
+  "version": "0.0.0",
+  "description": "A Lumine Layer that renders HTML and CSS.",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lumine-gl/lumine-layer-typeform.git"
+  },
+  "author": "Will Shown <will.shown@microsoft.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lumine-gl/lumine-layer-typeform/issues"
+  },
+  "homepage": "https://github.com/lumine-gl/lumine-layer-typeform",
+  "dependencies": {
+    "lodash": "latest",
+    "lumine": "file:///Users/wishown/Projects/lumine",
+    "three": "latest",
+    "typeform": "git://github.com/lumine-gl/typeform.git"
+  }
+}
