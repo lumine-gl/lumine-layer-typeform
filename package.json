@@ -15,8 +15,8 @@
   "homepage": "https://github.com/lumine-gl/lumine-layer-typeform",
   "dependencies": {
     "lodash": "latest",
-    "lumine": "file:///Users/wishown/Projects/lumine",
+    "lumine": "lumine-gl/lumine",
     "three": "latest",
-    "typeform": "git://github.com/lumine-gl/typeform.git"
+    "typeform": "lumine-gl/typeform"
   }
 }
