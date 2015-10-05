@@ -16,7 +16,7 @@
   "dependencies": {
     "lodash": "latest",
     "lumine": "lumine-gl/lumine",
-    "three": "latest",
+    "three": "0.71",
     "typeform": "lumine-gl/typeform"
   }
 }
